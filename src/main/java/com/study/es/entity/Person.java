@@ -14,11 +14,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Person {
-	
-	
-	
-	
-	
 	@JsonIgnore
 	private Integer id;
 	
